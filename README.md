@@ -3,14 +3,16 @@
 
 ## Hey, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px">
 
-My name is Mudit Choudhary and I am a student at high school. I like programming or coding and currently learning html, css, js. :man_technologist:
+My name is Mudit Choudhary and I am a student at high school. Currently I am learning html, css, js to develop a full website. :man_technologist:
 
-## Technolgies & Tools
-![](https://img.shields.io/badge/Code-HTML-blue?style=flat&logo=)
-![](https://img.shields.io/badge/Code-CSS-blue?style=flat&logo=)
-![](https://img.shields.io/badge/Code-JS-blue?style=flat&logo=)
-![](https://img.shields.io/badge/Code-PYTHON-blue?style=flat&logo=)
-![](https://img.shields.io/badge/Editor-VSCODE-blue?style=flat&logo=)
+## Technolgies & Tools 🧰
+![](https://img.shields.io/badge/Code-HTML_5-blue?style=flat&logo=html5&labelColor=black&color=silver)
+![](https://img.shields.io/badge/Code-CSS_3-blue?style=flat&logo=css3&labelColor=black&color=silver)
+![](https://img.shields.io/badge/Code-Javascript-blue?style=flat&logo=javascript&labelColor=black&color=silver)
+![](https://img.shields.io/badge/Code-Python-blue?style=flat&logo=python&labelColor=black&color=silver)
+![](https://img.shields.io/badge/Editor-VS_code-blue?style=flat&logo=vsco&labelColor=black&color=silver)
+![](https://img.shields.io/badge/Tools-Git-blue?style=flat&logo=git&labelColor=black&color=silver)
+![](https://img.shields.io/badge/OS-Ubuntu-blue?style=flat&logo=ubuntu&labelColor=black&color=silver)
 
 
 <!--
