@@ -1,7 +1,7 @@
 <img src="https://github.com/muditchoudhary/muditchoudhary/blob/main/assets/github_header1.gif" width="100%">
 <hr>
 
-## Hey, folks! Something about myself <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px">
+## Hey, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px">  Something about myself
 
 My name is Mudit Choudhary and Currently I am a student at high school.
 
