@@ -1,9 +1,18 @@
 <img src="https://github.com/muditchoudhary/muditchoudhary/blob/main/assets/github_header1.gif" width="100%">
 <hr>
 
-## Hey, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px">
+## Hey, folks! Something about myself <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px">
 
-My name is Mudit Choudhary and I am a student at high school. Currently I am learning html, css, js to develop a full website. :man_technologist:
+My name is Mudit Choudhary and Currently I am a student at high school.
+
+- 🌱 I’m currently learning html, css, js
+
+- 👯 I’m looking to collaborate on project related to web development.
+
+- 🤔 I’m looking for help with web development and open source.
+
+- 😄 Pronouns: He/Him/They/Them
+
 
 ## Technolgies & Tools 🧰
 ![](https://img.shields.io/badge/Code-HTML_5-blue?style=flat&logo=html5&labelColor=black&color=silver)
