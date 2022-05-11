@@ -11,8 +11,6 @@ My name is Mudit Choudhary and Currently I am a student at high school.
 
 - 🤔 I’m looking for help with web development and open source.
 
-- 😄 Pronouns: He/Him/They/Them
-
 
 ## Technolgies & Tools 🧰
 ![](https://img.shields.io/badge/Code-HTML_5-blue?style=flat&logo=html5&labelColor=black&color=silver)
