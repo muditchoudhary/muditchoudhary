@@ -1,4 +1,4 @@
-<img src="https://github.com/muditchoudhary/muditchoudhary/blob/main/assets/github_header1.gif" width="100%">
+<img src="assets/git_bio_cropped.gif" width="100%">
 <hr>
 
 ## Hey, folks! Something about myself
