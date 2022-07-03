@@ -1,15 +1,8 @@
 <img src="assets/git_bio_cropped.gif" width="100%">
 <hr>
 
-## Hey, folks! Something about myself
-
-My name is Mudit Choudhary and Currently I am a student at high school.
-
-- 🌱 I’m currently learning html, css, js
-
-- 👯 I’m looking to collaborate on project related to web development.
-
-- 🤔 I’m looking for help with web development and open source.
+## About myself
+Hello! There :raising_hand: , my name is Mudit. I am a student going to join college this year. I have been learning to code :computer: since November 2020 with python :snake: as the first language. Currently, I am focusing on web development with the MERN tech stack and discovering open source and different opportunities to explore more domains in software development. Feel free to look at my profile and reach out to me. 
 
 
 ## Technolgies & Tools 🧰
