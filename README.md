@@ -23,6 +23,8 @@ Hello! There :raising_hand: my name is **Mudit**. I am a student going to join c
 <img src="https://github-readme-stats.vercel.app/api?username=muditchoudhary&show_icons=true&theme=vision-friendly-dark" alt="Mudit's GitHub Stats" align="center" width="50%" />
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muditchoudhary&layout=compact&theme=vision-friendly-dark&langs_count=6" alt="GitHub Top-Langs" align="center" width="50%" />
+    
+[![Mudit's github activity graph](https://activity-graph.herokuapp.com/graph?username=muditchoudhary&theme=elegant)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!--
 **muditchoudhary/muditchoudhary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
