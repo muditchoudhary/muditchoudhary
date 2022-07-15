@@ -3,7 +3,7 @@
 
 ## About myself
 
-Hello! There :raising_hand: my name is **Mudit**. I am a student going to join college this year. I have been learning to code :computer: since **November 2020 with python** :snake: as the first language. Currently, I am focusing on **web development** with the **MERN** tech stack and discovering **open source** and different opportunities to explore more domains in software development. Feel free to look at my profile and reach out to me.
+Hello! There :raising_hand: my name is **Mudit**. I am a student going to join college this year. I have been learning to code :computer: since **November 2020 with python** :snake: as the first language. Currently, I am focusing on **web development** with the **MERN** tech stack and exploring **open source** and different opportunities to explore more domains in software development. Feel free to look at my profile and reach out to me.
 
 ## Let's Connect 
 [![](https://img.shields.io/twitter/url?label=%20%40_mudit24&logoColor=blue&style=social&url=https%3A%2F%2Ftwitter.com%2F_mudit24)](https://twitter.com/_mudit24)
