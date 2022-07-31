@@ -40,7 +40,7 @@ I am a **student, learner and programmer**. I have been learning to code :comput
 
 <img alt="Ubuntu" src="https://img.shields.io/badge/-Ubuntu 20.04-E95420?logo=ubuntu&logoColor=white&style=for-the-badge"/> <img alt="Windows" src="https://img.shields.io/badge/-Windows 10-0078D6?logo=windows&logoColor=white&style=for-the-badge"/>
 
-# My Cool Projects
+# My Projects
 
 <!-- HTML Code: Place this code in the document's body (between the 'body' tags) where the table should appear -->
 <table>
