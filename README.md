@@ -53,6 +53,18 @@ I am a **student, learner and programmer**. I have been learning to code :comput
     </tr>
   </thead>
   <tbody>
+  <tr>
+      <td>ToDo App</td>
+      <td align="center">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="24px" height="24px" />
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="24px" height="24px" />
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="24px" height="24px"/> 
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="24px" height="24px" />
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-plain.svg" width="24px" height="24px"/>
+      </td>
+      <td><a href="https://github.com/muditchoudhary/todo-app">ToDo App</a></td>
+      <td><a href="https://muditchoudhary.github.io/todo-app/">ToDo App</a></td>
+    </tr>
     <tr>
       <td>Restaurant Page</td>
       <td align="center">
