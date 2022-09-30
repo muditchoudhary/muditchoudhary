@@ -109,5 +109,3 @@ I am a **student, learner and programmer**. I have been learning to code :comput
     <img src="https://github-readme-stats.vercel.app/api?username=muditchoudhary&show_icons=true&theme=vision-friendly-dark" alt="Mudit's GitHub Stats" width="48%" />
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=muditchoudhary&theme=vision-friendly-dark" width="48%"/>
 </p>
-    
-[![Mudit's github activity graph](https://activity-graph.herokuapp.com/graph?username=muditchoudhary&theme=elegant)](https://github.com/ashutosh00710/github-readme-activity-graph)
