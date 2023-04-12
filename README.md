@@ -1,25 +1,29 @@
 # Hey!! I'm Mudit <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="29px">
 
-I am a **student, learner and programmer**. I have been learning to code :computer: since **November 2020 with python** :snake: as the first language. Currently, I am focusing on **web development** with the **MERN** tech stack and exploring **open source** and **different opportunities** to know more about **software development**. Feel free to look at my profile and :mailbox: reach out to me:
-
 <div align="left">
 
--   🔭 I’m currently working on **TO-Do Project**
--   🌱 I’m currently learning **SOLID Principles**
--   👯 I’m looking to collaborate on **Any Project**
+-   🔭 I’m currently working on **React, Full stack development**
+-   🌱 I’m currently learning **React, React testing**
+-   👯 I’m looking to collaborate on **Web related projects**
 -   🤔 I’m looking for help with **Carrer, Development, Programming**
--   💬 Ask me about **Web Development**
+-   💬 Ask me about **Web Development, Books**
 -   😄 Pronouns: **He/Him**
 -   ⚡ Fun fact: **I love building things with code**
 
 </div>
 
+
+
 <div align="center">
 
-<a href="https://twitter.com/_mudit24" target="_blank"><img src="https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white&alt=twitter" /></a>
-<a  href="https://www.linkedin.com/in/mudit-choudhary-he-him-a87243228/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://twitter.com/mudit__01" target="_blank"><img src="https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white&alt=twitter" /></a>
+<a  href="https://www.linkedin.com/in/mudit-choudhary-a87243228/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 </div>
+
+<div align="left">
+
+#### React out to me: cmudit60@gmail.com
 
 # Tools & Technologies 🧰
 
