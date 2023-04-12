@@ -9,6 +9,7 @@
 -   💬 Ask me about **Web Development, Books**
 -   😄 Pronouns: **He/Him**
 -   ⚡ Fun fact: **I love building things with code**
+-   👀 Visitors: ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fmuditchoudhary&labelColor=%23697689&countColor=%232ccce4&style=plastic&labelStyle=upper)
 
 </div>
 
