@@ -2,8 +2,8 @@
 
 <div align="left">
 
--   🔭 I’m currently working on **React, Full stack development**
--   🌱 I’m currently learning **React, React testing**
+-   🔭 I’m currently working on **BashNode - a web app to unleash your words and show to the world**
+-   🌱 I’m currently learning **Express, React, Testing**
 -   👯 I’m looking to collaborate on **Web related projects**
 -   🤔 I’m looking for help with **Carrer, Development, Programming**
 -   💬 Ask me about **Web Development, Books**
@@ -45,69 +45,6 @@
 
 <img alt="Ubuntu" src="https://img.shields.io/badge/-Ubuntu 20.04-E95420?logo=ubuntu&logoColor=white&style=for-the-badge"/> <img alt="Windows" src="https://img.shields.io/badge/-Windows 10-0078D6?logo=windows&logoColor=white&style=for-the-badge"/>
 
-# My Projects
-
-<!-- HTML Code: Place this code in the document's body (between the 'body' tags) where the table should appear -->
-<table>
-  <thead>
-    <tr>
-      <th>Name</th>
-      <th>Languages & Tools Used</th>
-      <th>Repo</th>
-      <th>Live</th>
-    </tr>
-  </thead>
-  <tbody>
-  <tr>
-      <td>ToDo App</td>
-      <td align="center">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="24px" height="24px" />
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="24px" height="24px" />
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="24px" height="24px"/> 
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="24px" height="24px" />
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-plain.svg" width="24px" height="24px"/>
-      </td>
-      <td><a href="https://github.com/muditchoudhary/todo-app">ToDo App</a></td>
-      <td><a href="https://muditchoudhary.github.io/todo-app/">ToDo App</a></td>
-    </tr>
-    <tr>
-      <td>Restaurant Page</td>
-      <td align="center">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="24px" height="24px" />
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="24px" height="24px" />
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="24px" height="24px"/>
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-plain.svg" width="24px" height="24px"/>
-        </td>
-      <td>
-      <a href="https://github.com/muditchoudhary/restaurant-page">Restaurant Page</a>
-      </td>
-      <td>
-      <a href="https://muditchoudhary.github.io/restaurant-page/">Restaurant Page</a>
-    </td>
-    </tr>
-    <tr>
-      <td>Library</td>
-      <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="24px" height="24px" />
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="24px" height="24px" />
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="24px" height="24px"/>
-      </td>
-      <td><a href="https://github.com/muditchoudhary/library">Library</a></td>
-      <td><a href="https://muditchoudhary.github.io/library/">Library</a></td>
-    </tr>
-    <tr>
-      <td>Tic Tac Toe</td>
-      <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="24px" height="24px" />
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="24px" height="24px" />
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="24px" height="24px"/>
-      </td>
-      <td><a href="https://github.com/muditchoudhary/tic_tac_toe">Tic Tac Toe</a></td>
-      <td><a href="https://muditchoudhary.github.io/tic_tac_toe/">Tic Tac Toe</a></td>
-    </tr>
-  </tbody>
-</table>
-<!-- Codes by Quackit.com -->
 
 ## 📊 My GitHub Stats
 <p align="center">
