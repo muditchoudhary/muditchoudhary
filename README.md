@@ -2,8 +2,8 @@
 
 <div align="left">
 
--   🔭 I’m currently working on **how to make a full app with Next js**
--   🌱 I’m currently learning **Next JS, Postgres SQL, and Full stack development**
+-   🔭 I’m currently working on **Upskilling myself in the right way**
+-   🌱 I’m currently learning **DSA, Fundamentals of JavaScript, Databases, Web development**
 -   👯 I’m looking to collaborate on **Web related projects**
 -   🤔 I’m looking for help with **Carrer, Development, Programming**
 -   💬 Ask me about **Tech/Music/Movies**
