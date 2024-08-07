@@ -8,7 +8,7 @@
 -   🤔 I’m looking for help with **Carrer, Development, Programming**
 -   💬 Ask me about **Tech/Music/Movies**
 -   😄 Pronouns: **He/Him**
--   ⚡ Fun fact: **I love building things with code**
+-   ⚡ Fun fact: **I love learning the why behind everything**
 -   👀 Visitors: ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fmuditchoudhary&labelColor=%23697689&countColor=%232ccce4&style=plastic&labelStyle=upper)
 
 </div>
