@@ -2,7 +2,7 @@
 
 <div align="left">
 
--   🔭 I’m currently working on **Upskilling myself in the right way**
+-   🔭 I’m currently working on **Upskilling myself in a right way**
 -   🌱 I’m currently learning **DSA, Fundamentals of JavaScript, Databases, Web development**
 -   👯 I’m looking to collaborate on **Web related projects**
 -   🤔 I’m looking for help with **Carrer, Development, Programming**
